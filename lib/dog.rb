@@ -17,3 +17,5 @@ class Dog
     @breed
   end
 end
+
+snoopy = Dog.new
